@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+}
+
+#rootWindow{
+  height: 100%;
+}
+
+#renderTarget {
+  height: 100%;
+}
